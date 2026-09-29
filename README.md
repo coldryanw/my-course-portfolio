@@ -1,12 +1,12 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for [CEP146]!
+Welcome to my academic portfolio for CEP146!
 
 ## About Me
-- Name: [Ruien Wu]
-- Major: [Computer programming & Analysis]
-- Year: [2026]
-- Favorite Programming Language: [JAVA]
+- Name: Ruien Wu
+- Major: Computer Programming & Analysis
+- Year: 2026
+- Favorite Programming Language: JAVA
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
